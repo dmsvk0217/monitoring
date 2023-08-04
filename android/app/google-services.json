@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1039425129068",
+    "project_id": "avengers-10d4e",
+    "storage_bucket": "avengers-10d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039425129068:android:73b56caf5674d1b6452649",
+        "android_client_info": {
+          "package_name": "com.example.avengers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039425129068-5a7ei474oeq87k9839a4qva32i76urhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJQv-AoKMQo_uUxaNz7S1gpUlYyDrIeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039425129068-5a7ei474oeq87k9839a4qva32i76urhj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039425129068-5fm0439q7gs5e0ptbb9kplngvf3s2vqg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.avengers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
