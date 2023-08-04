@@ -1,16 +1,12 @@
 # avengers
 
-A new Flutter project.
+[포항시 환경지킴이 프로젝트 - 프로토타이핑 프로젝트]
 
-## Getting Started
+## 프로젝트 소개
+포항시 환경지킴이 프로젝트에 앞선 프로토타이핑 프로젝트입니다. 
+아두이노와 Zigbee 무선 통신을 이용하여 라즈베리파이에서 데이터를 받아와 Firebase에 데이터를 기록하고, Flutter 앱으로 실시간으로 데이터를 시각화하여 사용자가 환경 데이터를 확인할 수 있는 서비스를 개발하는 것을 목표로 합니다.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 프로젝트 목표
+- 아두이노와 Zigbee 무선 통신을 통해 환경 데이터 수집 시스템 구축
+- 라즈베리파이를 활용하여 데이터를 수집하고 Firebase에 실시간으로 데이터 기록
+- Flutter 앱을 통해 Firebase에 저장된 데이터를 시각화하여 사용자가 환경 데이터를 쉽게 확인할 수 있도록 구현
